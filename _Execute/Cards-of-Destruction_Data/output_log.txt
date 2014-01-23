@@ -1,0 +1,17 @@
+Initialize engine version: 4.3.3f1 (c8ca9b6b9936)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1191]
+    Renderer: ATI Radeon HD 5670
+    Vendor:   ATI
+    VRAM:     1400 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\xampp\htdocs\UNITY_Cards-of-Destruction\_Execute\Cards-of-Destruction_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\xampp\htdocs\UNITY_Cards-of-Destruction\_Execute\Cards-of-Destruction_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\xampp\htdocs\UNITY_Cards-of-Destruction\_Execute\Cards-of-Destruction_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\xampp\htdocs\UNITY_Cards-of-Destruction\_Execute\Cards-of-Destruction_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.156 seconds
+desktop: 1600x900 60Hz; virtual: 2880x1024 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
