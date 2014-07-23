@@ -1,8 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Main_Menue.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Card_Manager.js">
     <Files>
-      <File FileName="Assets\Scripts\Main_Menue.js" Line="4" Column="20" />
+      <File FileName="Assets\Scripts\Card_Manager.js" Line="181" Column="2" />
+      <File FileName="Assets\Scripts\Card_Manager.js" Line="49" Column="4" />
+      <File FileName="Assets\Scripts\Feld_Manager.js" Line="44" Column="3" />
+      <File FileName="Assets\Scripts\Object_Rotation.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Reihe_Manager.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Deck_Manager.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hand_Manager.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
